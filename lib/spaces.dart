@@ -50,7 +50,7 @@ abstract class TlSpaces {
   static const pl32 = EdgeInsets.only(left: sp32);
   static const pl64 = EdgeInsets.only(left: sp64);
 
-  static const pl8pr24 = EdgeInsets.only(left: sp8, right: sp24);
+  static const pl8r24 = EdgeInsets.only(left: sp8, right: sp24);
   static const pl16r8 = EdgeInsets.only(left: sp16, right: sp8);
   static const pl16b8 = EdgeInsets.only(left: sp16, bottom: sp8);
   static const pl16t16 = EdgeInsets.only(left: sp16, top: sp16);
@@ -66,6 +66,7 @@ abstract class TlSpaces {
   static const pr32 = EdgeInsets.only(right: sp32);
 
   static const pr16b16 = EdgeInsets.only(bottom: sp16, right: sp16);
+  static const pr24b24 = EdgeInsets.only(bottom: sp24, right: sp24);
 
   static const ph4 = EdgeInsets.symmetric(horizontal: sp4);
   static const ph8 = EdgeInsets.symmetric(horizontal: sp8);
