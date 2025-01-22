@@ -1,0 +1,22 @@
+name: tl_spaces
+description: A Flutter library that provides a clean grid of paddings and spaces.
+version: 1.0.0
+
+publish_to: none
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+  flutter: '>=2.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+
+flutter:
