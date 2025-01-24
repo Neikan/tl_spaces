@@ -3,8 +3,7 @@
 A Flutter library that provides a clean grid of paddings and spaces.
 
 ## Features
-- Beautiful UI.
-- Highly Customizable UI.
+- Clean grid of paddings and spaces.
 
 
 ## Use
