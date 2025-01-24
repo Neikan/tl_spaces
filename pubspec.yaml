@@ -4,8 +4,6 @@ version: 1.0.1
 homepage: https://github.com/Neikan/tl_spaces
 repository: https://github.com/Neikan/tl_spaces
 
-publish_to: none
-
 environment:
   sdk: '>=2.18.0 <4.0.0'
   flutter: '>=2.0.0'
