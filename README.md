@@ -1,6 +1,6 @@
 # TL Spaces
 
-A Flutter library that provides a customizable Material Design widgets.
+A Flutter library that provides a clean grid of paddings and spaces.
 
 ## Features
 - Beautiful UI.
@@ -16,4 +16,4 @@ import 'package:tl_spaces/spaces.dart';
 
 ## License
 
-The TL_Spaces library is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The Tl Spaces library is licensed under the [MIT License](https://opensource.org/licenses/MIT).
