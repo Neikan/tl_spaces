@@ -1,3 +1,6 @@
+## 1.0.2
+- fix Readme
+
 ## 1.0.1
 - add pr24b24
 - fix pl8r24

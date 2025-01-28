@@ -10,7 +10,7 @@ A Flutter library that provides a clean grid of paddings and spaces.
 Import the library in your Dart file:
 
 ```dart
-import 'package:tl_spaces/spaces.dart';
+import 'package:tl_spaces/tl_spaces.dart';
 ```
 
 ## License
